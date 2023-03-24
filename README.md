@@ -4,9 +4,9 @@
 
   <h2 align="center">POrtafolio - Alberth Ruíz</h2>
 
-  Dprod is a fully responsive agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/dprod/"><strong>➥ Live Demo</strong></a>
+  <!-- <a href="https://codewithsadee.github.io/dprod/"><strong>➥ Live Demo</strong></a> -->
 
 </div>
 

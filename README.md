@@ -1,15 +1,8 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/dprod)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/dprod?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/dprod?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/z_nFjEHltSw?style=social)](https://youtu.be/z_nFjEHltSw)
-
   <br />
   <br />
 
-  <h2 align="center">Dprod - Agency Website</h2>
+  <h2 align="center">POrtafolio - Alberth Ruíz</h2>
 
   Dprod is a fully responsive agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
